@@ -1,0 +1,1 @@
+to check if semgrep is actually calculating score or not
